@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed network card in server 010",
+      "tech": "Philipp Campestrini",
+      "attention": true,
+      "date": "2020-03-30T19:53:27.977Z"
+    },
+    {
+      "message": "this is like a message or such",
+      "tech": "Smith Benson",
+      "attention": false,
+      "date": "2020-03-30T17:43:52.553Z",
+      "id": 2
+    },
+    {
+      "message": "another message in the dust",
+      "tech": "Smith Benson",
+      "attention": true,
+      "date": "2020-03-30T17:44:06.345Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
